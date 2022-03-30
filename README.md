@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sfsf9797
 - 👀 I’m interested in ML/CV/NLP
-
+- I occasionally write technical articles on [medium](https://sekfook97.medium.com/)
 
 <!---
 sfsf9797/sfsf9797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
