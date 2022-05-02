@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sfsf9797
-- 👀 I’m interested in ML/CV/NLP
+- 👀 I’m interested in ML/CV/NLP/blockchain
 - I occasionally write technical articles on [medium](https://sekfook97.medium.com/)
 
 Familiar with: data engineering, backend development, machine learning, and deep learning.
