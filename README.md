@@ -4,7 +4,7 @@
 
 Familiar with: data engineering, backend development, machine learning, and deep learning.
 
-Tech stack: Python, Golang, Typescript, MySQL, ElasticSearch, Kafka, K8s, Pyspark, docker, AWS and etc
+Tech stack: Python, Golang, MySQL, ElasticSearch, Kafka, K8s, Pyspark, docker, AWS and etc
 
 Building software at Xendit, an Indonesian fintech unicorn that graduate from YCombinator and backed by investors from Silicon Valley and Asia. Xendit powers some of Southeast Asia’s fastest-growing brands including Traveloka, Transferwise, Wish, and Grab.
 
