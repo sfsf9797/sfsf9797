@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sfsf9797
 - 👀 I’m interested in ML/CV/NLP/blockchain
-- I occasionally write technical articles on [medium](https://sekfook97.medium.com/)
+- I occasionally write technical articles on [Medium](https://sekfook97.medium.com/)
 - Come say hi on my [Linkedin](https://www.linkedin.com/in/sek-fook-tan-ba3a07125)
 
 Familiar with: data engineering, backend development, machine learning, and deep learning.
