@@ -9,11 +9,6 @@ Tech stack: Python, Golang, MySQL, ElasticSearch, Kafka, K8s, Pyspark, docker, A
 
 Building software at Xendit, an Indonesian fintech unicorn that graduate from YCombinator and backed by investors from Silicon Valley and Asia. Xendit powers some of Southeast Asia’s fastest-growing brands including Traveloka, Transferwise, Wish, and Grab.
 
-<h3>Recent Publication</h3>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/1" alt="Recent Article 1"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sekfook97/2" alt="Recent Article 2"> 
 
 
